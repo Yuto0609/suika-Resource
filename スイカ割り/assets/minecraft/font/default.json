@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "suika:font/black.png",
+      "ascent": 64,
+      "height": 128,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "suika:font/halto1.png",
+      "ascent": 32,
+      "height": 32,
+      "chars": ["\uE001"]
+    }
+  ]
+}
